@@ -16,7 +16,7 @@ A Telegram bot that allows users to upload images and convert them into a single
 To install the necessary libraries, use:
 ```bash
 pip install pyTelegramBotAPI Pillow
-
+```
 
 1. Clone the repository:
    ```bash
