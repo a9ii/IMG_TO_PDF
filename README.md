@@ -20,8 +20,8 @@ pip install pyTelegramBotAPI Pillow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/a9ii/IMG_TO_PDF.git
+   cd IMG_TO_PDF
    ```
 
 2. Replace `'Your_Token'` with your bot token from [BotFather](https://core.telegram.org/bots#botfather).
